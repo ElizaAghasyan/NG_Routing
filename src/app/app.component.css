@@ -1,0 +1,22 @@
+header {
+  width: 100%;
+  height: 5rem;
+  background-color: #beb7c5;
+}
+.container {
+  width: 90%;
+  margin: 0 auto;
+  height: inherit;
+}
+.navigation {
+  display: flex;
+  padding: 1.8rem 0;
+}
+button {
+  background: none;
+  border: none;
+  margin: 0 1.5rem;
+  cursor: pointer;
+  color: azure;
+  font-size: 1.2rem;
+}
